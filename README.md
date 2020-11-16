@@ -5,4 +5,5 @@
 The project covers the concept of **DOM Manipulation** using Javascript.
 
 Code Along Portfolio Project:
-- [Calculator](https://www.youtube.com/watch?v=6v4vBXL-qkY)
+- [Calculator](https://saeedrafay.github.io/js-calc/)
+- [Credits](https://www.youtube.com/watch?v=6v4vBXL-qkY)
